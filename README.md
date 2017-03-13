@@ -20,7 +20,3 @@ Watchify is used to listen to new changes, also you have to keep your npm initia
 npm start
 ```
 
-License
-----
-
-Apache
