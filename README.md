@@ -1,11 +1,4 @@
-# React Skeleton
-
-This is a simple project that is used to initialize my own react.js projects. It includes most important libraries to start on the right way,
-
-You can use it, just clone this repository
-```
-git clone https://github.com/juanortiz10/ReactSkeleton.git
-```
+# React proyect
 
 Then you should initialize npm to download all required dependencies:
 ```
